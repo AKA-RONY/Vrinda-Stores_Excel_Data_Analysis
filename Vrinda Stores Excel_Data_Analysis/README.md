@@ -122,6 +122,7 @@ C) DATA ANALYSIS AND VISUALIZATION - here we will be analysing the data using pi
  <br>
   
   ### INSIGHTS AND NEXT STEPS: ###
+  ------------------------------
 After analysing the entire data we came to below mentioned conclusions:-
 1. Women are the prime customers, and are more likely to purchase as compared to men(~65%).
 2. Maharastra,Karnataka and Uttar Pradesh are top 3 states.
