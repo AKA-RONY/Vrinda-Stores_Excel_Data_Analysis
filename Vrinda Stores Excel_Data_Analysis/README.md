@@ -103,7 +103,24 @@ C) DATA ANALYSIS AND VISUALIZATION - here we will be analysing the data using pi
     => since we had previously grouped the age. Now make a pivot table for age_group(as rows),gender(as columns) & order_id(as values). then show the values as %of grand total.Then build a bar graph. <br>
  <BR>
  INSIGHTS:- <BR>  
- 
+     -> We can see that women of adult group does the shopping more i.e(between 30-49 yrs)<br>
+  <br>
+    q7.soln:-<br>
+    Which channel is contributing to maximum sales?
+    => same make a pivot table format the data into percentge then make a pie chart. As we want to show the distribution of each channel within 100%.<br>
+  <br>
+ INSIGHTS:- <BR>
+     -> We can see Amazon has the highest number of orders & sales.<br>
+  <br>
+    q8.soln:-<br>
+    Highest selling category.<br>
+    => same draw a pivot  table for caregory and order_count, then draw a bar graph and format it.<br>
+  <br>
+ INSIGHTS:- <BR>
+     -> Sets & Kurtas are highest selling Categories.<br>
+  
+  
+    
     
  
 
