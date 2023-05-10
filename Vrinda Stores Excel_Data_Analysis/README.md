@@ -61,6 +61,9 @@ apply this condition to every row:-  IF(E2>=50,"senior",IF(E2>=30,"Adult","teena
 
 q2. which month got the highest sales & orders?<br>
 soln:- <br> create a separate column (month) and  write the formula =TEXT(G2,'mmm')/=TEXT(G2,'mmmm')# this will show the name of the month as JAN/JANUARY.<br>
+ <BR>
+  INSIGHTS:-
+     -> March has the highest sales & orders<br>
 
 C) **DATA ANALYSIS AND VISUALIZATION** - here we will be analysing the data using pivot table and visualize it using various graphs.
  <br>
