@@ -21,6 +21,12 @@ THINGS I WORKED ON:-
 6. Insights & next Step
 ----------------------------
 
+THINGS I DO GENERALLY BEFORE WORKING ON DATASET:-
+---------------------------------------------------
+-> Highlevel overview of data
+-> what are the data points
+-> can it solve the business problem or not
+
 
 
 
