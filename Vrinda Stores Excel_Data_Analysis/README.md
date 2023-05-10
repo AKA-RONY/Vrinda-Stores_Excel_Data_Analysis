@@ -101,6 +101,7 @@ C) DATA ANALYSIS AND VISUALIZATION - here we will be analysing the data using pi
     q6.soln:-<br>
     Relation between age and gender, based on number of sales.<BR>
     => since we had previously grouped the age. Now make a pivot table for age_group(as rows),gender(as columns) & order_id(as values). then show the values as %of grand total.Then build a bar graph. <br>
+ <BR>
  INSIGHTS:- <BR>  
  
     
