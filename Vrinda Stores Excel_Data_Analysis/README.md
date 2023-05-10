@@ -24,8 +24,8 @@ THINGS I WORKED ON:-
 THINGS I DO GENERALLY BEFORE WORKING ON DATASET:-
 ---------------------------------------------------
 -> Highlevel overview of data <br>
--> what are the data points
--> can it solve the business problem or not
+-> what are the data points <br>
+-> can it solve the business problem or not <br>
 
 
 
