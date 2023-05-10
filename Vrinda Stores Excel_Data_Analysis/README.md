@@ -130,7 +130,8 @@ After analysing the entire data we came to below mentioned conclusions:-
 4. Maximum orders are coming from Amazon,Flipkart,Myntra channels(~80%).Among them Amazon is the Highest.
 
 
-#### FINAL CONCLUSIONS TO IMPROVE 'VRINDA STORE' SALES: #### 
+#### FINAL CONCLUSIONS TO IMPROVE 'VRINDA STORE'  SALES: #### 
+  ---------------------------------------------
 -> Target Women Customers of Age_group(30-49 yrs) living in Maharastra,Karnataka,Uttar pradesh by showing ads/offers/coupons available on Amazon,Flipkart, and Myntra.
 
 
