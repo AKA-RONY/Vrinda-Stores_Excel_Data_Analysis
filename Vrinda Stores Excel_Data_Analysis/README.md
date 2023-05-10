@@ -82,9 +82,8 @@ C) **DATA ANALYSIS AND VISUALIZATION** - here we will be analysing the data usin
   INSIGHTS:- <br>
      -> 1. We can see that Female do the most shopping. <br>
  <br>
-    q4.soln:-<br>
-    What are the different order status in 2022 ? 
-    => same create pivot table for status (in rows) & order_count(values). Then draw a pie graph, you can see the distribution  of status throughout the channels.<br>
+    q4. What are the different order status in 2022 ? <BR>
+    soln:-<br> same create pivot table for status (in rows) & order_count(values). Then draw a pie graph, you can see the distribution  of status throughout the channels.<br>
     <br>
   INSIGHTS:- <br>
      -> 1. we came to know that majority of the orders had been delivered(90%), 2% of entire order were refunded, 3% were returned & 3% were cancelled.<br>
@@ -103,13 +102,13 @@ C) **DATA ANALYSIS AND VISUALIZATION** - here we will be analysing the data usin
  INSIGHTS:- <BR>  
      -> We can see that women of adult group does the shopping more i.e(between 30-49 yrs)<br>
   <br>
-    q7.Which channel is contributing to maximum sales?
+    q7. Which channel is contributing to maximum sales?<BR>
     soln:-<br> same make a pivot table format the data into percentge then make a pie chart. As we want to show the distribution of each channel within 100%.<br>
   <br>
  INSIGHTS:- <BR>
      -> We can see Amazon has the highest number of orders & sales.<br>
   <br>
-    q8.Highest selling category.<br>
+    q8. Highest selling category.<br>
     soln:-<br> same draw a pivot  table for caregory and order_count, then draw a bar graph and format it.<br>
   <br>
   
