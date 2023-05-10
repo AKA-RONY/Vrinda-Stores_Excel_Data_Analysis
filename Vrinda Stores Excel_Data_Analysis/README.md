@@ -44,13 +44,13 @@ QUESTIONS I FORMED AFTER GOING THROUGH THE DATASET:-
 
 MAIN PART:-
 ---
-A) DATA CLEANING - In data cleaning we first cross check the data of every column,whether all the data is correct or not. <br>
+A) **DATA CLEANING** - In data cleaning we first cross check the data of every column,whether all the data is correct or not. <br>
    i) There should be no duplicate/repeating or  null value <br>
    ii) The values should be consistent. ex- gender column has some inconsistent values(men, m, women, w) & qty column has some inconsistent values, make them in proper format<br>
    iii) Their should be no outliers, go through every column carefully!<br>
    iv) check if any values are mispelled.<br>
    
-B) DATA PROCESSING -It means we want to calculate some values or want to process any data that would help us in our analysis process. Includes working with formulas,etc. <br> 
+B) **DATA PROCESSING** -It means we want to calculate some values or want to process any data that would help us in our analysis process. Includes working with formulas,etc. <br> 
 
 Lets begin solving our qtns:- <br>
 --
@@ -61,9 +61,9 @@ apply this condition to every row:-  IF(E2>=50,"senior",IF(E2>=30,"Adult","teena
 
 q2.soln:- <br>
 which month got the highest sales & orders?<br>
-=> create a separate column (month) and  write the formula =TEXT(G2,'mmm')/=TEXT(G2,'mmmm')# this will show the name of the month as JAN/JANUARY.<BR>
+=> create a separate column (month) and  write the formula =TEXT(G2,'mmm')/=TEXT(G2,'mmmm')# this will show the name of the month as JAN/JANUARY.<br>
 
-C) DATA ANALYSIS AND VISUALIZATION - here we will be analysing the data using pivot table and visualize it using various graphs.
+C) **DATA ANALYSIS AND VISUALIZATION** - here we will be analysing the data using pivot table and visualize it using various graphs.
  <br>
  
    q1.soln:- <br>
@@ -123,7 +123,7 @@ C) DATA ANALYSIS AND VISUALIZATION - here we will be analysing the data using pi
  INSIGHTS:- <BR>
      -> Sets & Kurtas are highest selling Categories.<br>
  <br>
-D) REPORTS:- <BR>
+D) **REPORTS**:- <BR>
   
   ![Screenshot (311)](https://github.com/salvik43/Vrinda-Stores_Excel_Data_Analysis/assets/67736824/0e4f9b1a-a6ec-4768-a415-cd3e25ff615c)
   
