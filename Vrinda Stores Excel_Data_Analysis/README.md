@@ -9,6 +9,18 @@ You are hired as a data analyst for 'VRINDA STORE'. They asked you to analyse th
 customers in better way and how they can grow their business next year, i.e 2023.
 
 
+THINGS I WORKED ON:-
+1. Data Cleaning
+2. Data processing
+3. Data Analysis
+4. Data Visualization
+5. Reports
+6. Insights & next Step
+
+
+
+
+
 
 
 
