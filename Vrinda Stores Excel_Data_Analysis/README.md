@@ -68,9 +68,9 @@ C) DATA ANALYSIS AND VISUALIZATION - here we will be analysing the data using pi
    Make a pivot table of amount and order count and put month in rows; you will get the month-wise distribution of sales and order-count. Then draw a combo chart. Now, we have to    format the sales amount values since its not convinient to read.<br>
    Right click the column(amount)->Format axis-> in number tab-> type-> 0.00,,"M"  , means after 1st number there will be 2 point decimal and a letter "M" for million.<br>
   INSIGHTS:-<br>
-     > 1. we can see month wise sales which month got the highest sales. <br>
-     > 2. we can also see order count in each month.<br>
-     > 3. highest sales and highest order are on 'March'. <br>
+     -> 1. we can see month wise sales which month got the highest sales. <br>
+     -> 2. we can also see order count in each month.<br>
+     -> 3. highest sales and highest order are on 'March'. <br>
  
 
 
