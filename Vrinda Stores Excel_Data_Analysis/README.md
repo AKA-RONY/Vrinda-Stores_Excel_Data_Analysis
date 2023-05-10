@@ -97,6 +97,11 @@ C) DATA ANALYSIS AND VISUALIZATION - here we will be analysing the data using pi
  INSIGHTS:- <BR>
      -> we can see that Maharastra is the state where maximum numbers of orders are comming from various channels. And you had sales of amount 2.99M last year<br>
      -> Followed by Karnataka,Uttar Pradesh, Telengana, Tamil Nadu are top 4 states after Maharastra.<br>
+ <br>
+    q6.soln:-<br>
+    Relation between age and gender, based on number of sales.<BR>
+    => since we had previously grouped the age. Now make a pivot table for age_group(as rows),gender(as columns) & order_id(as values). then show the values as %of grand total.Then build a bar graph.<BR>
+ INSIGHTS:- <BR>  
  
     
  
