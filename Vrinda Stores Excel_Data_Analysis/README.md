@@ -58,7 +58,10 @@ like there was a qtn related to gender and age and show their relationship. But 
 apply this condition to every row:-  IF(E2>=50,"senior",IF(E2>=30,"Adult","teenager")) <br><br>
 
 q2.soln:- <br>
-which month got the highest 
+which month got the highest sales & orders?<br>
+create a separate column (month) and  write the formula =TEXT(G2,'mmm')/=TEXT(G2,'mmmm')# this will show the name of the montha as JAN/JANUARY.<BR>
+
+
 
 
 
