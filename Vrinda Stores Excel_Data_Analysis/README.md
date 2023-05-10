@@ -62,7 +62,16 @@ q2.soln:- <br>
 which month got the highest sales & orders?<br>
 create a separate column (month) and  write the formula =TEXT(G2,'mmm')/=TEXT(G2,'mmmm')# this will show the name of the month as JAN/JANUARY.<BR>
 
- C) DATA ANALYSIS AND VISUALIZATION - here we will be analysing the data using pivot table and visualize it using various graphs. <br>
+C) DATA ANALYSIS AND VISUALIZATION - here we will be analysing the data using pivot table and visualize it using various graphs. <br>
+   q1.soln:- <br>
+   Compare  the sales(amount) and orders(count of orders) with respect to month using single chart. <br>
+   Make a pivot table of amount and order count and put month in rows; you will get the month-wise distribution of sales and order-count. Then draw a combo chart. Now, we have to    format the sales amount values since its not convinient to read.<br>
+   Right click the column(amount)->Format axis-> in number tab-> type-> 0.00,,"M"  , means after 1st number there will be 2 point decimal and a letter "M" for million.<br>
+  INSIGHTS:-<br>
+        <t>* we can see month wise sales which month got the highest sales.
+        * we can also see order count in each month.
+        * highest sales and highest order are on 'March'.
+ 
 
 
 
