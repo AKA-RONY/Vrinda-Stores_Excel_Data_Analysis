@@ -120,7 +120,9 @@ C) **DATA ANALYSIS AND VISUALIZATION** - here we will be analysing the data usin
      -> Sets & Kurtas are highest selling Categories.<br>
  <br>
 D) **REPORTS**:- <BR>
-  After creating all the pivot tables for particular qtns, now its time to create a new REPORT sheet where all the pivot charts will be presents and are connected to each others using slicers( for easy filtering). After inserting slicers we then have to connect with all the pivot charts, so that any changes made on slicer will reflect on all the charts. Below is the Report that I have created:<br> 
+  <br>
+  After creating all the pivot tables for particular qtns, now its time to create a new REPORT sheet where all the pivot charts will be present and are connected to each others using slicers( for easy filtering). After inserting slicers we then have to connect with all the pivot charts, so that any changes made on slicer will reflect on all the charts.<br>
+  Below is the Report that I have created:<br> 
   ![Screenshot (311)](https://github.com/salvik43/Vrinda-Stores_Excel_Data_Analysis/assets/67736824/0e4f9b1a-a6ec-4768-a415-cd3e25ff615c)
   
   ### INSIGHTS AND NEXT STEPS: ###
