@@ -23,7 +23,7 @@ THINGS I WORKED ON:-
 
 THINGS I DO GENERALLY BEFORE WORKING ON DATASET:-
 ---------------------------------------------------
--> Highlevel overview of data
+-> Highlevel overview of data \n
 -> what are the data points
 -> can it solve the business problem or not
 
