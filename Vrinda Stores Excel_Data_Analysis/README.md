@@ -93,6 +93,7 @@ C) DATA ANALYSIS AND VISUALIZATION - here we will be analysing the data using pi
     q5.soln:-<br>
     List top 5 states contributing to sales.<br>
     => same draw a pivot table for states(rows) and amount(sales) as values. Then sort the amount to largest to smallest. Then filter the states for top 5. Draw a bar chart. Format the chart, refactor the data into millions i.e 0.00,,"M" for sales amount & 0.0,,"M" for X-axis.<br>
+ <br>
  INSIGHTS:- <BR>
      -> we can see that Maharastra is the state where maximum numbers of orders are comming from various channels. And you had sales of amount 2.99M last year<br>
      -> Followed by Karnataka,Uttar Pradesh, Telengana, Tamil Nadu are top 4 states after Maharastra.<br>
