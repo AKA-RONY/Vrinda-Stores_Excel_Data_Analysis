@@ -28,6 +28,8 @@ THINGS I DO GENERALLY BEFORE WORKING ON DATASET:-
 -> can it solve the business problem or not <br>
 
 
+QUESTIONS I FORMED AFTER GOING THROUGH THE DATASET:-
+--
 
 
 
