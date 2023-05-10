@@ -58,14 +58,14 @@ Lets begin solving our qtns:- <br>
 q6. Relation between age and gender, based on number of sales.<BR>
 soln:- <br> But if we want to see the relationship individually its not possible. So, to do that we have to create a column as Age_Group and then group the age values into teenage(<30 yrs ),adult(>=30-49 yrs), senior( >=50). <br>
 apply this condition to every row:-  IF(E2>=50,"senior",IF(E2>=30,"Adult","teenager")) <br><br>
-------------------
+
 q2. which month got the highest sales & orders?<br>
 soln:- <br> create a separate column (month) and  write the formula =TEXT(G2,'mmm')/=TEXT(G2,'mmmm')# this will show the name of the month as JAN/JANUARY.<br>
  <BR>
   INSIGHTS:-<br>
      -> March has the highest sales & orders<br>
   <br>
---------------------
+
 C) **DATA ANALYSIS AND VISUALIZATION** - here we will be analysing the data using pivot table and visualize it using various graphs.
  <br>
  
@@ -120,7 +120,7 @@ C) **DATA ANALYSIS AND VISUALIZATION** - here we will be analysing the data usin
      -> Sets & Kurtas are highest selling Categories.<br>
  <br>
 D) **REPORTS**:- <BR>
-  
+  After creating all the pivot tables for particular qtns, now its time to create a new REPORT sheet where all the pivot charts will be presents and are connected to each others using slicers( for easy filtering). After inserting slicers we then have to connect with all the pivot charts, so that any changes made on slicer will reflect on all the charts. Below is the Report that I have created:<br> 
   ![Screenshot (311)](https://github.com/salvik43/Vrinda-Stores_Excel_Data_Analysis/assets/67736824/0e4f9b1a-a6ec-4768-a415-cd3e25ff615c)
   
   ### INSIGHTS AND NEXT STEPS: ###
