@@ -52,7 +52,9 @@ A) DATA CLEANING - In data cleaning we first cross check the data of every colum
 B) DATA PROCESSING -It means we want to calculate some values or want to process any data that would help us in our analysis process. Includes working with formulas,etc. <br> 
 
 Lets begin solving our qtns:- <br>
-q6.soln:-  like there was a qtn related to gender and age and show their relationship. But if we want to see the relationship individually its not possible. So, to do that we have to group the age values into teenage(<30 yrs ),adult(>=30-49 yrs), senior( >=50). <br>
+--
+q6.soln:- <br>
+like there was a qtn related to gender and age and show their relationship. But if we want to see the relationship individually its not possible. So, to do that we have to group the age values into teenage(<30 yrs ),adult(>=30-49 yrs), senior( >=50). <br>
 To do this we need to apply condition as follows:- <br>
    
 
