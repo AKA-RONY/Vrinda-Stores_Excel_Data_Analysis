@@ -73,7 +73,15 @@ C) DATA ANALYSIS AND VISUALIZATION - here we will be analysing the data using pi
      -> 1. we can see month wise sales which month got the highest sales. <br>
      -> 2. we can also see order count in each month.<br>
      -> 3. highest sales and highest order are on 'March'. <br>
+   <br>
+    q3.soln:- <br>
+    Who purchased more? men or women in 2022 ? <br>
+    same draw a pivot table for gender(in rows) and sales(as values) columns. you can see that female does more shopping. visualize it with pie graph. do the rest formatting. <br>
+ <br>
  
+  INSIGHT:- <br>
+ 
+    
 
 
 
