@@ -79,7 +79,19 @@ C) DATA ANALYSIS AND VISUALIZATION - here we will be analysing the data using pi
     same draw a pivot table for gender(in rows) and sales(as values) columns. you can see that female does more shopping. visualize it with pie graph. do the rest formatting. <br>
  <br>
  
-  INSIGHT:- <br>
+  INSIGHTS:- <br>
+     -> 1. We can see that Female do the most shopping. <br>
+ <br>
+    q4.soln:-<br>
+    What are the different order status in 2022 ? 
+    same create pivot table for status (in rows) & order_count(values). Then draw a pie graph, you can see the distribution  of status throughout the channels.<br>
+    <br>
+  INSIGHTS:- <br>
+     -> 1. we came to know that majority of the orders had been delivered(90%), 2% of entire order were refunded, 3% were returned & 3% were cancelled.
+     -> 2. Among the channels Amazon had the highest number of deliveries, & Mesho had the least number of deliveries.
+ 
+
+    
  
     
 
