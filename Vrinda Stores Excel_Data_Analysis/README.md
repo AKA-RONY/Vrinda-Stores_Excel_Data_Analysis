@@ -43,8 +43,8 @@ QUESTIONS I FORMED AFTER GOING THROUGH THE DATASET:-
 
 MAIN PART:-
 ---
-A) DATA CLEANING - In data cleaning we first cross check the data of every column,whether all the data is correct or not.<br>
-   i) There should be no duplicate/repeating or  null value < br>
+A) DATA CLEANING - In data cleaning we first cross check the data of every column,whether all the data is correct or not. <br>
+   i) There should be no duplicate/repeating or  null value <br>
    ii) The values should be consistent. ex- gender column has some inconsistent values(men, m, women, w) & qty column has some inconsistent values, make them in proper format<br>
    iii) Their should be no outliers, go through every column carefully!<br>
    iv) check if any values are mispelled.<br>
