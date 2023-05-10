@@ -118,7 +118,19 @@ C) DATA ANALYSIS AND VISUALIZATION - here we will be analysing the data using pi
   <br>
  INSIGHTS:- <BR>
      -> Sets & Kurtas are highest selling Categories.<br>
-  -------------------------------------------------------------------
+ <br>
+  ### INSIGHTS AND NEXT STEPS ###:
+After analysing the entire data we came to below mentioned conclusions:-
+1. Women are the prime customers, and are more likely to purchase as compared to men(~65%).
+2. Maharastra,Karnataka and Uttar Pradesh are top 3 states.
+3. Adult Age_group(30-49 yrs) is max contributing (~50%).
+4. Maximum orders are coming from Amazon,Flipkart,Myntra channels(~80%).Among them Amazon is the Highest.
+
+
+FINAL CONCLUSIONS TO IMPROVE 'VRINDA STORE' SALES:
+-> Target Women Customers of Age_group(30-49 yrs) living in Maharastra,Karnataka,Uttar pradesh by showing ads/offers/coupons available on Amazon,Flipkart, and Myntra.
+
+
   
   
     
