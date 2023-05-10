@@ -54,8 +54,8 @@ B) DATA PROCESSING -It means we want to calculate some values or want to process
 Lets begin solving our qtns:- <br>
 --
 q6.soln:- <br>
-like there was a qtn related to gender and age and show their relationship. But if we want to see the relationship individually its not possible. So, to do that we have to group the age values into teenage(<30 yrs ),adult(>=30-49 yrs), senior( >=50). <br>
-To do this we need to apply condition :-  IF(E2>=50,"senior",IF(E2>=30,"Adult","teenager")) <br>
+like there was a qtn related to gender and age and show their relationship. But if we want to see the relationship individually its not possible. So, to do that we have to create a column as Age_Group and then group the age values into teenage(<30 yrs ),adult(>=30-49 yrs), senior( >=50). <br>
+apply this condition to every row:-  IF(E2>=50,"senior",IF(E2>=30,"Adult","teenager")) <br>
 
 
 
