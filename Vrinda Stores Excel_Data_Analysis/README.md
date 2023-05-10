@@ -58,14 +58,14 @@ Lets begin solving our qtns:- <br>
 q6. Relation between age and gender, based on number of sales.<BR>
 soln:- <br> But if we want to see the relationship individually its not possible. So, to do that we have to create a column as Age_Group and then group the age values into teenage(<30 yrs ),adult(>=30-49 yrs), senior( >=50). <br>
 apply this condition to every row:-  IF(E2>=50,"senior",IF(E2>=30,"Adult","teenager")) <br><br>
-
+------------------
 q2. which month got the highest sales & orders?<br>
 soln:- <br> create a separate column (month) and  write the formula =TEXT(G2,'mmm')/=TEXT(G2,'mmmm')# this will show the name of the month as JAN/JANUARY.<br>
  <BR>
   INSIGHTS:-<br>
      -> March has the highest sales & orders<br>
   <br>
-
+--------------------
 C) **DATA ANALYSIS AND VISUALIZATION** - here we will be analysing the data using pivot table and visualize it using various graphs.
  <br>
  
