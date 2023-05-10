@@ -3,6 +3,7 @@
 
  ##### DATASET =>  Vrinda Store Dataset.xlsx #####
  ##### MAIN FILE => Vrinda Stores Excel_Data_Analysis.xlsx #####
+![Screenshot (311)](https://github.com/salvik43/Vrinda-Stores_Excel_Data_Analysis/assets/67736824/0e4f9b1a-a6ec-4768-a415-cd3e25ff615c)
 
 
 PROBLEM STATEMENT:- 
