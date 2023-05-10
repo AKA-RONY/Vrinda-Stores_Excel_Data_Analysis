@@ -1,8 +1,8 @@
 # DETAILED EXPLAINATION OF THE PROJECT... #
 
 
- ## DATASET =>  'Vrinda Store Dataset.xlsx', ##
- ## MAIN FILE => Vrinda Stores Excel_Data_Analysis.xlsx ##
+ ### DATASET =>  Vrinda Store Dataset.xlsx ###
+ ### MAIN FILE => Vrinda Stores Excel_Data_Analysis.xlsx ###
 
 
 PROBLEM STATEMENT:- 
