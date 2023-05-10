@@ -30,8 +30,8 @@ THINGS I DO GENERALLY BEFORE WORKING ON DATASET:-
 
 QUESTIONS I FORMED AFTER GOING THROUGH THE DATASET:-
 --------------------------------------------------
-1. Compare  the sales and orders with respect to month using single chart. <br>
-2. Which month got the highest sales and orders in 2022?****
+1. Compare  the sales and orders with respect to month using single chart. 
+2. Which month got the highest sales and orders in 2022?
 3. Who purchased more? men or women in 2022 ?
 4. What are the different order status in 2022 ?
 5. List top 10 states contributing to sales.
