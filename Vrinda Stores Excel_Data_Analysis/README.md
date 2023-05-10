@@ -69,7 +69,7 @@ C) DATA ANALYSIS AND VISUALIZATION - here we will be analysing the data using pi
    Right click the column(amount)->Format axis-> in number tab-> type-> 0.00,,"M"  , means after 1st number there will be 2 point decimal and a letter "M" for million.<br>
   INSIGHTS:-<br>
         <t>* we can see month wise sales which month got the highest sales.
-        * we can also see order count in each month.
+        * we can also see order count in each month.*
         * highest sales and highest order are on 'March'.
  
 
