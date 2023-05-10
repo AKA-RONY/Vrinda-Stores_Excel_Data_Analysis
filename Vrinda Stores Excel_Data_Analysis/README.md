@@ -41,6 +41,17 @@ QUESTIONS I FORMED AFTER GOING THROUGH THE DATASET:-
 -------------------------------------------------------------- 
 
 
+MAIN PART:-
+---
+A) DATA CLEANING - In data cleaning we first cross check the data of every column,whether all the data is correct or not.
+   i) There should be no duplicate/repeating or  null value
+   ii) The values should be consistent. ex- gender column has some inconsistent values(men, m, women, w) & qty column has some inconsistent values, make them in proper format
+   iii) Their should be no outliers, go through every column carefully!
+   iv) check if any values are mispelled.
+   
+B) DATA PROCESSING -It means we want to calculate some values or want to process any data that would help us in our analysis process. This phase includes working with formulas,                       etc.
+   
+
 
 
 
