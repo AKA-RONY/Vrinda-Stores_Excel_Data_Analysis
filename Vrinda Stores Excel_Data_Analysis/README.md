@@ -116,11 +116,11 @@ C) DATA ANALYSIS AND VISUALIZATION - here we will be analysing the data using pi
     Highest selling category.<br>
     => same draw a pivot  table for caregory and order_count, then draw a bar graph and format it.<br>
   <br>
-  --
+  
  INSIGHTS:- <BR>
      -> Sets & Kurtas are highest selling Categories.<br>
  <br>
-  --
+  
   ### INSIGHTS AND NEXT STEPS: ###
 After analysing the entire data we came to below mentioned conclusions:-
 1. Women are the prime customers, and are more likely to purchase as compared to men(~65%).
