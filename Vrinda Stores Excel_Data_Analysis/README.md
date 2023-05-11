@@ -4,7 +4,7 @@
  ##### DATASET =>  Vrinda Store Dataset.xlsx #####
  ##### MAIN FILE => Vrinda Stores Excel_Data_Analysis.xlsx #####
 
-
+**ABOUT VRINDA STORES:- 'VRINDA STORE' is an offline clothing store that performs the online sales operation through various channels(Amazon,flipkart,myntra, etc.)**
 
 PROBLEM STATEMENT:- 
 -------------------------
